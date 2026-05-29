@@ -1,5 +1,19 @@
-# Byte-compiled / optimized / DLL files
+# Dataset
+data/raw/
+data/processed/
+
+# Trained models/checkpoints
+*.h5
+*.keras
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Byte-compiled / optimized / DLL files
 *.py[codz]
 *$py.class
 
