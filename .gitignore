@@ -2,9 +2,6 @@
 data/raw/
 data/processed/
 
-# Trained models/checkpoints
-*.h5
-*.keras
 
 # Notebook checkpoints
 .ipynb_checkpoints/
